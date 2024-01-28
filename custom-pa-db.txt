@@ -1,0 +1,13 @@
+#ICAO,Tail Ident,Operator,Type,ICAO Type,CMPG,Tag 1,Tag 2,Tag 3,Category,Link,#ImageLink,#ImageLink2,#ImageLink3,#ImageLink4
+A0B6F9,N145TN,AIR METHODS CORP,2006 AIRBUS HELICOPTERS EC-145,EC45,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://www.airmethods.com
+A0D611,N153CHP,California Highway Patrol,GIPPSAERO GA-8 Airvan,GA8,Pol,Chipper,Bipper patrol,Boys in blue,Law Enforcement,https://en.wikipedia.org/wiki/GippsAero_GA8_Airvan
+A38270,N325RX,Reach Air Medical Services LLC,2021 Airbus Helicopters EC-135/635,EC35,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://reachair.com,https://en.wikipedia.org/wiki/Eurocopter_EC635
+A5E2DA,N479DF,CALIFORNIA DEPT OF FORESTRY & FIRE PROTECTION,2021 SIKORSKY UH-60 Black Hawk,H60,Gov,Heli,Flying Fire Extinguisher,Air Attack,Wildfire,Aerial Firefighter,https://www.fire.ca.gov
+A662B8,N510PD,City of Oakland,1990 HUGHES 500,H500,Pol,Heli,Bipper patrol,Boys in blue,Law Enforcement,https://en.wikipedia.org/wiki/MD_Helicopters_MD_500
+A84A74,N633SC,AVAG INC,1967 Bell UH-1 Huey,UH1,Civ,Heli,Crop Duster,Agriculture,Making food,https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois
+A9738F,N708PD,EAST BAY REGIONAL PARK DISTRICT POLICE AIR SUPPORT UNIT,AEROSPATIALE AS-350 Ecureuil,AS50,Pol,Heli,Bipper patrol,Boys in blue,Law Enforcement,https://en.wikipedia.org/wiki/Eurocopter_AS350_Écureuil
+AC9A65,N911AC,Alameda CO Sheriffs Office,BELL 505 Jet Ranger X,B505,Pol,Heli,Bipper patrol,Boys in blue,Law Enforcement,https://en.wikipedia.org/wiki/Bell_505_Jet_Ranger_X
+AD9AAC,N976HP,California Highway Patrol,2014 AEROSPATIALE AS-350 Ecureuil,AS50,Pol,Bipper Patrol,Boys in Blue,Law Enforcement,https://en.wikipedia.org/wiki/Eurocopter_AS350_Écureuil
+ADA21A,N978HP,California Highway Patrol,2014 AEROSPATIALE AS-350 Ecureuil,AS50,Pol,Bipper Patrol,Boys in Blue,Law Enforcement,https://en.wikipedia.org/wiki/Eurocopter_AS350_Écureuil
+ADA5D1,N979HP,California Highway Patrol,2014 AEROSPATIALE AS-350 Ecureuil,AS50,Pol,Bipper Patrol,Boys in Blue,Law Enforcement,https://en.wikipedia.org/wiki/Eurocopter_AS350_Écureuil
+AE6012,17-20931,United States Army,SIKORSKY UH-60 Black Hawk,H60,Mil,Heli,Tactical transport,Icon,To Fly Fight And Win,United States Army,https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk
