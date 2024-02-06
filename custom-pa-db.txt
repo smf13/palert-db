@@ -13,3 +13,4 @@ ADA21A,N978HP,California Highway Patrol,2014 AEROSPATIALE AS-350 Ecureuil,AS50,P
 ADA5D1,N979HP,California Highway Patrol,2014 AEROSPATIALE AS-350 Ecureuil,AS50,Pol,Bipper Patrol,Boys in Blue,Law Enforcement,https://w.wiki/7kcW
 ADB424,N982SB,CAL-ORE Life Flight LLC,1998 Beech 90 King Air,BE9L,Civ,Air Ambo,Medical Evac,Saving Lives,Flying Doctors,https://w.wiki/7op8
 AE6012,17-20931,United States Army,SIKORSKY UH-60 Black Hawk,H60,Mil,Heli,Tactical transport,Icon,To Fly Fight And Win,United States Army,https://w.wiki/3nxX
+A31AA0,N3A,GOODYEAR TIRE & RUBBER,2018 Zeppelin LZ N07-101,SHIP,Civ,Blimp,Zeppelin,Floaty Boy,Semi-rigid Airship,https://en.wikipedia.org/wiki/Goodyear_Blimp
